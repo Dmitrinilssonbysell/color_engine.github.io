@@ -12,27 +12,27 @@ Then...
 import React, { useEffect } from "react"
 import { ColorEngine } from "background-color"
 
-    const myApplication = () => {
-        
-        useEffect(() => {
-            ColorEngine("blue", "my-class-selector")
-            ColorEngine("orange", "my-id-selector")
-        }, [])
+const myApplication = () => {
+    
+    useEffect(() => {
+        ColorEngine("blue", "my-class-selector")
+        ColorEngine("orange", "my-id-selector")
+    }, [])
 
-        return(
-            <div>
-            
-                <div className="my-class-selector">
-                    example
-                </div>
-            
-                <div id="my-id-selector">
-                    example
-                </div>
-            
+    return(
+        <div>
+        
+            <div className="my-class-selector">
+                example
             </div>
-        )
-    }
+        
+            <div id="my-id-selector">
+                example
+            </div>
+        
+        </div>
+    )
+}
 
 ```
 
