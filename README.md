@@ -12,13 +12,13 @@ Then...
 import React, { useEffect } from "react"
 import { ColorEngine } from "background-color"
 
-const myApplication = () => {
+const MyApplication = () => {
     
     useEffect(() => {
-        ColorEngine("blue", "my-class-selector")
-        ColorEngine("orange", "my-id-selector")
+      ColorEngine("blue", ".my-class-selector")
+      ColorEngine("orange", "#my-id-selector")
     }, [])
-
+    
     return(
         <div>
         
@@ -33,6 +33,8 @@ const myApplication = () => {
         </div>
     )
 }
+
+export default MyApplication
 
 ```
 

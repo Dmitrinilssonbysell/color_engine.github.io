@@ -1,6 +1,6 @@
 {
   "name": "background-color",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quick and easy way to get background color",
   "main": "index.js",
   "scripts": {
