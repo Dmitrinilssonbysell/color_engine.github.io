@@ -40,16 +40,16 @@ export default MyApplication
 
 ## Options
 
-* *black* | ( default - Loop from 1 - 5 )
-* *beige* | ( default - Loop from 1 - 5 )
-* *blue* | ( default - Loop from 1 - 5 )
-* *cyan* | ( default - Loop from 1 - 5 )
-* *green* | ( default - Loop from 1 - 5 )
-* *red* | ( default - Loop from 1 - 5 )
-* *orange* | ( default - Loop from 1 - 5 )
-* *purple* | ( default - Loop from 1 - 5 )
-* *pink* | ( default - Loop from 1 - 5 )
-* *yellow* | ( default - Loop from 1 - 5 )
+* *black* | ( default - LOOP Mode: from 1 - 5 )
+* *beige* | ( default - LOOP Mode: from 1 - 5 )
+* *blue* | ( default - LOOP Mode: from 1 - 5 )
+* *cyan* | ( default - LOOP Mode: from 1 - 5 )
+* *green* | ( default - LOOP Mode: from 1 - 5 )
+* *red* | ( default - LOOP Mode: from 1 - 5 )
+* *orange* | ( default - LOOP Mode: from 1 - 5 )
+* *purple* | ( default - LOOP Mode: from 1 - 5 )
+* *pink* | ( default - LOOP Mode: from 1 - 5 )
+* *yellow* | ( default - LOOP Mode: from 1 - 5 )
 #
 * *black1* - *black5* | ( Color scale from 1 - 5 | STRICT MODE )
 * *beige1* - *beige5* | ( Color scale from 1 - 5 | STRICT MODE )
