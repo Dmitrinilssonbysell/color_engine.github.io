@@ -50,7 +50,7 @@ export default MyApplication
 * *purple* | ( default - Loop from 1 - 5 )
 * *pink* | ( default - Loop from 1 - 5 )
 * *yellow* | ( default - Loop from 1 - 5 )
-
+#
 * *black1* - *black5* | ( Color scale from 1 - 5 | STRICT MODE )
 * *beige1* - *beige5* | ( Color scale from 1 - 5 | STRICT MODE )
 * *blue1* - *blue5* | ( Color scale from 1 - 5 | STRICT MODE )
