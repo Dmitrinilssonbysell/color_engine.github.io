@@ -4,13 +4,13 @@ Quick and easy way to get background color!
 
 # Installation
 
-`npm i background_color_engine`
+`npm i background-color`
 
 Then...
 
 ```
 import React, { useEffect } from "react"
-import { ColorEngine } from "background_color_engine"
+import { ColorEngine } from "background-color"
 
     const myApplication = () => {
         
