@@ -1,5 +1,5 @@
 function ColorEngine(color, selector) {
-    const doc = document.querySelectorAll(selector)
+    const doc = document.querySelector(selector)
 
     if (color === "black") {
         return doc.style.background = "rgb(45,45,45)"
