@@ -1,5 +1,5 @@
 {
-  "name": "background_color_engine",
+  "name": "background-color",
   "version": "1.0.0",
   "description": "Quick and easy way to get background color",
   "main": "index.js",
