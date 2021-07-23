@@ -1,0 +1,28 @@
+{
+  "name": "color_engine",
+  "version": "1.0.0",
+  "description": "Change your background color on your selectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmitrinilssonbysell/color_engine.github.io.git"
+  },
+  "keywords": [
+    "Color Engine",
+    "Random Color",
+    "Color",
+    "Background Color",
+    "React background color",
+    "Color change",
+    "Change color"
+  ],
+  "author": "Dmitri Nilsson Bysell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmitrinilssonbysell/color_engine.github.io/issues"
+  },
+  "homepage": "https://github.com/Dmitrinilssonbysell/color_engine.github.io#readme"
+}
