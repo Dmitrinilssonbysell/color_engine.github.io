@@ -1,7 +1,7 @@
 {
   "name": "background_color_engine",
-  "version": "1.0.1",
-  "description": "Change your background color on your selectors",
+  "version": "1.0.0",
+  "description": "Quick and easy way to get background color",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
