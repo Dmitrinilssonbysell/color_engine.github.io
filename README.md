@@ -50,7 +50,7 @@ export default MyApplication
 * *purple* | ( default - LOOP MODE: from 1 - 5 )
 * *pink* | ( default - LOOP MODE: from 1 - 5 )
 * *yellow* | ( default - LOOP MODE: from 1 - 5 )
-![Screenshot](Color1.png)
+![default - LOOP MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color1.jpg?raw=true)
 
 #
 * *black1* - *black5* | ( STRICT MOODE | Color scale from 1 - 5 )
@@ -63,5 +63,5 @@ export default MyApplication
 * *purple1* - *purple5* | ( STRICT MOODE | Color scale from 1 - 5 )
 * *pink1* - *pink5* | ( STRICT MOODE | Color scale from 1 - 5 )
 * *yellow1* - *yellow5* | ( STRICT MOODE | Color scale from 1 - 5 )
-![Screenshot](Color2.png)
-![Screenshot](Color3.png)
+![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color2.jpg?raw=true)
+![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color3.jpg?raw=true)
