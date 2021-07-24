@@ -65,25 +65,25 @@ function ColorEngine(color, selector) {
             let timer = 0;
             const interval1 = setInterval(() => {
             timer++
-            doc[i].style.backgroundColor = "rgb(93, 114, 142)"
+            doc[i].style.backgroundColor = "rgb(70, 155, 235)"
             if (interval1 > 1) {
                 clearInterval(interval1)
                 let timer = 0;
                 const interval2 = setInterval(() => {
                 timer++
-                doc[i].style.backgroundColor = "rgb(69, 94, 125)"
+                doc[i].style.backgroundColor = "rgb(50, 125, 235)"
                 if (timer > 1) {
                     clearInterval(interval2)
                     let timer = 0;
                     const interval3 = setInterval(() => {
                     timer++
-                    doc[i].style.backgroundColor = "rgb(46, 74, 109)"
+                    doc[i].style.backgroundColor = "rgb(20, 95, 235)"
                     if (timer > 1) {
                         clearInterval(interval3)
                         let timer = 0;
                         const interval4 = setInterval(() => {
                         timer++
-                        doc[i].style.backgroundColor = "rgb(23, 54, 93)"
+                        doc[i].style.backgroundColor = "rgb(20, 75, 205)"
                         if (timer > 1) {
                             clearInterval(interval4)
                         }
@@ -94,22 +94,22 @@ function ColorEngine(color, selector) {
                 }, 500)
             }
             }, 500)
-            return doc[i].style.background = "rgb(116, 134, 158)"
+            return doc[i].style.background = "rgb(70, 175, 255)"
         }
         if (color === "blue1") {
-            return doc[i].style.background = "rgb(116, 134, 158)"
+            return doc[i].style.background = "rgb(70, 175, 255)"
         } 
         else if (color === "blue2") {
-            doc[i].style.backgroundColor = "rgb(93, 114, 142)"
+            return doc[i].style.background = "rgb(70, 155, 235)"
         }
         else if (color === "blue3") {
-            doc[i].style.backgroundColor = "rgb(69, 94, 125)"
+            return doc[i].style.background = "rgb(50, 125, 235)"
         }
         else if (color === "blue4") {
-            doc[i].style.backgroundColor = "rgb(46, 74, 109)"
+            return doc[i].style.background = "rgb(20, 95, 235)"
         }
         else if (color === "blue5") {
-            doc[i].style.backgroundColor = "rgb(23, 54, 93)"
+            return doc[i].style.background = "rgb(20, 75, 205)"
         }
     }
     
@@ -176,19 +176,19 @@ function ColorEngine(color, selector) {
             let timer = 0;
             const interval1 = setInterval(() => {
             timer++
-            doc[i].style.backgroundColor = "rgb(177, 81, 82)"
+            doc[i].style.backgroundColor = "rgb(187, 81, 82)"
             if (interval1 > 1) {
                 clearInterval(interval1)
                 let timer = 0;
                 const interval2 = setInterval(() => {
                 timer++
-                doc[i].style.backgroundColor = "rgb(166, 56, 57)"
+                doc[i].style.backgroundColor = "rgb(176, 56, 57)"
                 if (timer > 1) {
                     clearInterval(interval2)
                     let timer = 0;
                     const interval3 = setInterval(() => {
                     timer++
-                    doc[i].style.backgroundColor = "rgb(155, 31, 33)"
+                    doc[i].style.backgroundColor = "rgb(160, 31, 33)"
                     if (timer > 1) {
                         clearInterval(interval3)
                         let timer = 0;
@@ -205,19 +205,19 @@ function ColorEngine(color, selector) {
                 }, 500)
             }
             }, 500)
-            return doc[i].style.background = "rgb(188, 106, 107)"
+            return doc[i].style.background = "rgb(198, 106, 107)"
         }
         if (color === "red1") {
-            return doc[i].style.background = "rgb(188, 106, 107)"
+            return doc[i].style.background = "rgb(198, 106, 107)"
         } 
         else if (color === "red2") {
-            doc[i].style.backgroundColor = "rgb(177, 81, 82)"
+            doc[i].style.backgroundColor = "rgb(187, 81, 82)"
         }
         else if (color === "red3") {
-            doc[i].style.backgroundColor = "rgb(166, 56, 57)"
+            doc[i].style.backgroundColor = "rgb(176, 56, 57)"
         }
         else if (color === "red4") {
-            doc[i].style.backgroundColor = "rgb(155, 31, 33)"
+            doc[i].style.backgroundColor = "rgb(160, 31, 33)"
         }
         else if (color === "red5") {
             doc[i].style.backgroundColor = "rgb(144, 6, 8)"

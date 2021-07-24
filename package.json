@@ -1,6 +1,6 @@
 {
   "name": "background-color",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Quick and easy way to get background color",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,19 @@
   },
   "keywords": [
     "Color Engine",
-    "Random Color",
+    "color engine",
+    "Random color",
+    "random color",
     "Color",
-    "Background Color",
+    "color",
+    "Background color",
+    "background color",
     "React background color",
+    "react background color",
     "Color change",
-    "Change color"
+    "color change",
+    "Change color",
+    "change color"
   ],
   "author": "Dmitri Nilsson Bysell",
   "license": "ISC",
