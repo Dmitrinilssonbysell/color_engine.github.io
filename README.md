@@ -71,20 +71,13 @@ export default MyApplication
 * *split selector* | ( className & id )
 ```
 import React, { useEffect } from "react"
-import { ColorEngine } from "background-color"
+import { ColorEngineSplit } from "background-color"
 
 const MyApplication = () => {
     
-    const option3 = [
-        "blue1", 
-        ".my-class-selector", 
-        "#my-id-selector"
-    ]
 
     useEffect(() => {
-        option3.forEach(value => {
-            ColorEngine(option3[0], value)
-        });
+        ColorEngineSplit("blue1", ".my-class-selector", "#my-id-selector")
     }, [])
     
     return(

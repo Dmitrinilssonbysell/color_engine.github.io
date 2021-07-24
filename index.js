@@ -562,4 +562,13 @@ function ColorEngine(color, selector) {
     }
 }
 
+function ColorEngineSplit(color, par1,par2,par3,par4,par5,par6,par7,par8,par9,par10) {
+    let array = [color, par1, par2, par3, par4, par5, par6, par7, par8, par9, par10]
+    
+    array.forEach(value => {
+        ColorEngine(array[0], value)  
+    });
+}
 module.exports.ColorEngine = ColorEngine
+module.exports.ColorEngineSplit = ColorEngineSplit
+// 1.2.5 Latest.. ERROR
