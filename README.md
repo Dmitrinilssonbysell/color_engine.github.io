@@ -68,7 +68,7 @@ export default MyApplication
 ![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color3.jpg?raw=true)
 
 #
-* *split selector* | ( className & id )
+* *split selector* | ( className & id ) | ( Split selector receives a maximum of 10 parameters & 1 Color )
 ```
 import React, { useEffect } from "react"
 import { ColorEngineSplit } from "background-color"
@@ -77,7 +77,7 @@ const MyApplication = () => {
     
 
     useEffect(() => {
-        ColorEngineSplit("blue1", ".my-class-selector", "#my-id-selector")
+        ColorEngineSplit("blue1", ".my-class-selector", "#my-id-selector") // Max 10 parameters
     }, [])
     
     return(
