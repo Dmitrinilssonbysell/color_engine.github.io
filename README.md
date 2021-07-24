@@ -68,7 +68,7 @@ export default MyApplication
 ![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color3.jpg?raw=true)
 
 #
-* *split selector* | (className && id)
+* *split selector* | ( className & id )
 ```
 import React, { useEffect } from "react"
 import { ColorEngine } from "background-color"
