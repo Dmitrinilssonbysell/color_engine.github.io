@@ -66,3 +66,39 @@ export default MyApplication
 * *yellow1* - *yellow5* | ( STRICT MOODE | Color scale from 1 - 5 )
 ![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color2.jpg?raw=true)
 ![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color3.jpg?raw=true)
+
+#
+* *split selector* | (className && id)
+```
+import React, { useEffect } from "react"
+import { ColorEngine } from "background-color"
+
+const MyApplication = () => {
+    
+    const option3 = [
+        "blue1", 
+        ".my-class-selector", 
+        "#my-id-selector"
+    ]
+
+    useEffect(() => {
+        option3.forEach(value => {
+            ColorEngine(option3[0], value)
+        });
+    }, [])
+    
+    return(
+        <div>
+        
+            <div>
+                <p className="my-class-selector">Box1</p>
+                <p id="my-id-selector">Box2</p>
+            </div>
+        
+        </div>
+    )
+}
+
+export default MyApplication
+```
+![SPLIT SELECTOR](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Option3.jpg?raw=true)
