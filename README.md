@@ -1,7 +1,7 @@
 # Background Color Engine
 
 Quick and easy way to get background color!
-![Demo](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/snippet1.jpg?raw=true)
+![Demo](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/snippet1.jpg?raw=true)
 
 # Installation
 
@@ -51,7 +51,7 @@ export default MyApplication
 * *purple* | ( default - LOOP MODE: from 1 - 5 )
 * *pink* | ( default - LOOP MODE: from 1 - 5 )
 * *yellow* | ( default - LOOP MODE: from 1 - 5 )
-![default - LOOP MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color1.jpg?raw=true)
+![default - LOOP MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/Color1.jpg?raw=true)
 
 #
 * *black1* - *black5* | ( STRICT MOODE | Color scale from 1 - 5 )
@@ -64,8 +64,8 @@ export default MyApplication
 * *purple1* - *purple5* | ( STRICT MOODE | Color scale from 1 - 5 )
 * *pink1* - *pink5* | ( STRICT MOODE | Color scale from 1 - 5 )
 * *yellow1* - *yellow5* | ( STRICT MOODE | Color scale from 1 - 5 )
-![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color2.jpg?raw=true)
-![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Color3.jpg?raw=true)
+![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/Color2.jpg?raw=true)
+![STRICT MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/Color3.jpg?raw=true)
 
 #
 * *split selector* | ( className & id ) | ( Split selector receives a maximum of 10 parameters & 1 Color )
@@ -94,4 +94,4 @@ const MyApplication = () => {
 
 export default MyApplication
 ```
-![SPLIT SELECTOR](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/Option3.jpg?raw=true)
+![SPLIT SELECTOR](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/Option3.jpg?raw=true)
