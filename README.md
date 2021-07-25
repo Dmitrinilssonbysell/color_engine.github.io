@@ -1,8 +1,8 @@
 # Background Color Engine
 
 Quick and easy way to get background color!
-![Demo](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/snippet1.jpg?raw=true)
 ![Demo](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/snippet2.jpg?raw=true)
+![Demo](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/snippet1.jpg?raw=true)
 
 # Installation
 
