@@ -51,7 +51,6 @@ export default MyApplication
 * *purple* | ( default - LOOP MODE: from 1 - 10 )
 * *pink* | ( default - LOOP MODE: from 1 - 10 )
 * *yellow* | ( default - LOOP MODE: from 1 - 10 )
-![default - LOOP MODE](https://github.com/Dmitrinilssonbysell/color_engine.github.io/blob/master/image/Color1.jpg?raw=true)
 
 #
 * *black1* - *black10* | ( STRICT MOODE | Color scale from 1 - 10 )
